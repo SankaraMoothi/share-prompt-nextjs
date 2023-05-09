@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Sharing An AI Prompt To Others With Tags And Prompt It Helps To Get Good Staff Out Of AI with nextjs13.4 google Auth And Search Functionality Mongo DB Database
+# We Can Search With Particular Word And Tag UserName
 
-## Getting Started
+# Tablet View 
 
-First, run the development server:
+![tablet](https://github.com/SankaraMoothi/share-prompt-nextjs/assets/107635975/4e1c039d-6d50-480c-a626-26b336911d8c)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+# Desktop View 
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![desktop](https://github.com/SankaraMoothi/share-prompt-nextjs/assets/107635975/098ffa43-2cbe-4cc0-843b-4ac9e35bea13)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+# Mobile View
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![mobile](https://github.com/SankaraMoothi/share-prompt-nextjs/assets/107635975/cb9822b7-67cb-4ad5-bab1-52b0e0101ef7)
 
-## Learn More
+# Create Post
 
-To learn more about Next.js, take a look at the following resources:
+![createPost](https://github.com/SankaraMoothi/share-prompt-nextjs/assets/107635975/f949a975-ce9b-4068-8b5d-34dfdc3d868b)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+# Edit Post
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![editpost](https://github.com/SankaraMoothi/share-prompt-nextjs/assets/107635975/2f233f86-ea59-445c-be45-6875969c3d82)
 
-## Deploy on Vercel
+# Profile
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![profile](https://github.com/SankaraMoothi/share-prompt-nextjs/assets/107635975/f76e17a2-004f-4a2b-8d8d-927851c28207)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+# Search Functionality
+
+![searchfilter](https://github.com/SankaraMoothi/share-prompt-nextjs/assets/107635975/251b2e19-dbfb-49d3-86bc-7f2646159934)
+
+
+
+
+
+
+
